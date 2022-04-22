@@ -3,7 +3,7 @@
 [![GitHub Sajag Chauhan](https://img.shields.io/github/followers/SajagChauhan?label=follow&style=social)](https://github.com/SajagChauhan)
 [![Linkedin: Sajag Chauhan](https://img.shields.io/badge/-Sajag%20Chauhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajagchauhan/)](https://www.linkedin.com/in/sajagchauhan/)
 [![Twitter: Sajag - The Guy](https://img.shields.io/twitter/follow/SajagChauhan?style=social)](https://twitter.com/SajagChauhan)
-[![Polywork Badge](https://img.shields.io/badge/-khushbooverma-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/khushbooverma)](http://polywork.com/khushbooverma)
+
   
 I develop software, works on DevOps, create content and love meeting new people!
 
