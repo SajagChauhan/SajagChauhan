@@ -5,7 +5,7 @@
 [![Twitter: Sajag - The Guy](https://img.shields.io/twitter/follow/SajagChauhan?style=social)](https://twitter.com/SajagChauhan)
 
   
-I develop software, works on DevOps, create content and love meeting new people!
+I develop software, works on Machine Learning , create content and love meeting new people!
 
 
 [![Sajag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajagChauhan&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/SajagChauhan/github-readme-stats)
